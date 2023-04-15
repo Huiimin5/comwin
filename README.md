@@ -3,7 +3,7 @@ This repository contains data preparation, training and evaluation code, and pre
 
 ```
 ```
-![Overview](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Overview](https://github.com/Huiimin5/comwin/blob/main/figures/overview.png)
 
 
 # Introduction
